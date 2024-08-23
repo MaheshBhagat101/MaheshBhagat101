@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/maheshbhagat101" target="blank"><img src="https://img.shields.io/twitter/follow/maheshbhagat101?logo=twitter&style=for-the-badge" alt="maheshbhagat101" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, MongoDB**
+- 🌱 I’m currently learning **Reactjs, MongoDB**
 
 - 📫 How to reach me **bhagatmaheesh3@gmail.com**
 
